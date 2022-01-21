@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fristproject/static/css/main.e6c13ad2.css",
+    "main.js": "/fristproject/static/js/main.37239cfa.js",
+    "static/js/787.1513fb98.chunk.js": "/fristproject/static/js/787.1513fb98.chunk.js",
+    "index.html": "/fristproject/index.html",
+    "main.e6c13ad2.css.map": "/fristproject/static/css/main.e6c13ad2.css.map",
+    "main.37239cfa.js.map": "/fristproject/static/js/main.37239cfa.js.map",
+    "787.1513fb98.chunk.js.map": "/fristproject/static/js/787.1513fb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.37239cfa.js"
+  ]
+}
